@@ -15,11 +15,6 @@ namespace ConsoleApplication3
             Console.WriteLine("Error");
             Console.WriteLine("Error");
             Console.WriteLine("Error");
-            Console.WriteLine("Error");
-            Console.WriteLine("Error");
-            Console.WriteLine("Error");
-            Console.WriteLine("Error");
-            Console.WriteLine("Error");
         }
     }
 }
