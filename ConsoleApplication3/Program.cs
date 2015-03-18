@@ -11,7 +11,6 @@ namespace ConsoleApplication3
         static void Main(string[] args)
         {
             Console.WriteLine("Error");
-            Console.WriteLine("Error");
         }
     }
 }
